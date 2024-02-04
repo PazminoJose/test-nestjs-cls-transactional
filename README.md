@@ -1,6 +1,6 @@
 ## Steps
 
-### The project has all the dependencies that I use in a large project when i'm implementing @nestjs-cls/transactional but not all are used in this example
+### The project has all the dependencies that I use in a large project where  en i'm implementing @nestjs-cls/transactional but not all are used in this example
 
 ```bash
 $ npm install
